@@ -1,0 +1,47 @@
+.login-form {
+    margin-top: 13%;
+    margin-bottom: 15%;
+    width: 75%;
+}
+
+@media (min-width: 576px) { 
+    .login-form {
+        width: 25%;
+    }
+}
+
+@media (min-width: 768px) { 
+    .login-form {
+        width: 45%;
+    }
+}
+
+@media (min-width: 992px) {
+    .login-form {
+        width: 25%;
+    }
+}
+
+.register-form {
+    margin-top: 10%;
+    margin-bottom: 15%;
+    width: 75%;
+}
+
+@media (min-width: 576px) { 
+    .register-form {
+        width: 25%;
+    }
+}
+
+@media (min-width: 768px) { 
+    .register-form {
+        width: 45%;
+    }
+}
+
+@media (min-width: 992px) {
+    .register-form {
+        width: 25%;
+    }
+}
